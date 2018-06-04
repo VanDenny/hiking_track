@@ -1,0 +1,9 @@
+搜索条目地址：http://www.2bulu.com/track/track_search.htm?key=威海
+下载跳转链接：http://www.2bulu.com/space/download_track.htm?trackId=jwyQjTp8tis%3D&type=3
+gpx下载链接：http://helper.2bulu.com/downtrackByWeb?trackIdDes=RwyZnaDUQOUyEQui9VHzxQ==
+&type=3
+
+抓取条目信息
+抓取trackld
+抓取trackldDes
+
