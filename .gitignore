@@ -1,3 +1,10 @@
 
 *.xlsx
 *.csv
+*.gpx
+*.dbf
+*.shp
+*.shx
+*.lock
+*.log
+*.log
